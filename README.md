@@ -12,7 +12,7 @@ This project is a simple budget tracker where you can enter expense categories a
 ![screenshot](screenshot.png)
 
 ## 🚀 Live Demo
-[Click here to view the tracker](https://your-username.github.io/budget-tracker)
+https://mekalakarthik05.github.io/budget-tracker/
 
 ## 📂 Setup
 1. Clone the repo
