@@ -9,7 +9,7 @@ This project is a simple budget tracker where you can enter expense categories a
 - Chart.js
 
 ## 📸 Screenshot
-![screenshot](Budget Tracker – Expense Pie Chart.png)
+![screenshot](Budget_Tracker_Expense_Pie_Chart.png)
 
 
 ## 📂 Setup
